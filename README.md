@@ -53,6 +53,6 @@ The functions used are:
 | main | monty code interpreter | 0 on success | main.c| 
 
 ### Authors
-Okeoma Emmanuel
-Olere John
+1. Okeoma Emmanuel
+2. Olere John
 
